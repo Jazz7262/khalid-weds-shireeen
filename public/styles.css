@@ -375,7 +375,7 @@ h1 {
 @media (max-width: 990px) {
     /* Navbar Section */
     .navbar {
-        padding: 1% 7%;
+        padding: 2% 7%;
     }
     .navbar-brand h1 {
         font-size: 1.5rem;
